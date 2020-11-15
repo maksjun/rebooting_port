@@ -1,2 +1,3 @@
 # rebooting_port
-Rebooting port in equipment (without list equipment)
+Rebooting port in equipment (without list equipment - privacy) 
+Два скрипта, выполняющих одну задачу - перезагрузка порта оборудования, для восстановления абонентского сервиса (один реализован перебором оборудования в файле exel, второй реализован с применением многопоточности)
